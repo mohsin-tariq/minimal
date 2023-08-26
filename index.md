@@ -12,6 +12,8 @@ It covers the basics of hooks usage and modular pattern coding. The code uses al
 
 Its a pretty simple application to show timezone for different locations and to keep it updated after an interval of 5 seconds. The purpose of this code was to leverage ReactJS properly and to show how we can stop components being rerendered again. To make sure the components are not rerendered, we used Profiler (chrome extension) that gives us the list of components rendered and give all the required information that a developer should expect.
 
+<center><img src="assets/img/hooks.png"/></center>
+
 ---
 
 ### Component Dictionary
@@ -20,7 +22,6 @@ A basic application developed to show component library in storybook. This app i
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mohsin-tariq/components-dictionary)
 
-<center><img src="images/hooks.png"/></center>
 
 ---
 
@@ -30,4 +31,5 @@ This was an assignment to do server side rendering using NextJS which was build 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mohsin-tariq/next-ssr)
 
-[![Demo](images/demo.png)](https://next-ssr-git-master-mohsin-tariq.vercel.app)
+
+[![Demo](assets/img/demo.png)](https://next-ssr-git-master-mohsin-tariq.vercel.app)
