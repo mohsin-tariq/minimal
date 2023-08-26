@@ -20,7 +20,7 @@ A basic application developed to show component library in storybook. This app i
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mohsin-tariq/components-dictionary)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="images/hooks.png"/></center>
 
 ---
 
@@ -30,4 +30,4 @@ This was an assignment to do server side rendering using NextJS which was build 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mohsin-tariq/next-ssr)
 
-[![Demo](images/demo)](https://next-ssr-git-master-mohsin-tariq.vercel.app)
+[![Demo](images/demo.png)](https://next-ssr-git-master-mohsin-tariq.vercel.app)
